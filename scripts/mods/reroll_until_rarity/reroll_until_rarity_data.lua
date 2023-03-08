@@ -55,7 +55,7 @@ mod_data.options = {
         },
         {
           text = "rur_perk_name_melee_unyielding",
-          value = "content/items/perks/melee_common/wield_increase_monster_enemy_damage"
+          value = "content/items/perks/melee_common/wield_increase_resistant_damage"
         },
         {
           text = "rur_perk_name_melee_carapace",
@@ -85,7 +85,7 @@ mod_data.options = {
         },
         {
           text = "rur_perk_name_ranged_unyielding",
-          value = "content/items/perks/ranged_common/wield_increase_monster_enemy_damage"
+          value = "content/items/perks/ranged_common/wield_increase_resistant_damage"
         },
         {
           text = "rur_perk_name_ranged_carapace",
