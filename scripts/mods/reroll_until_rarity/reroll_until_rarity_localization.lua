@@ -62,6 +62,12 @@ return {
   rur_perk_name_melee_elite_damage = {
     en = "Melee Elite Damage",
   },
+  rur_perk_name_melee_unyielding = {
+    en = "Melee Unyielding",
+  },
+  rur_perk_name_melee_carapace = {
+    en = "Melee Carapace",
+  },
 
   -- **RANGED**
   rur_perk_name_ranged_flak = {
@@ -78,6 +84,12 @@ return {
   },
   rur_perk_name_ranged_elite_damage = {
     en = "Ranged Elite Damage",
+  },
+  rur_perk_name_ranged_unyielding = {
+    en = "Ranged Unyielding",
+  },
+  rur_perk_name_ranged_carapace = {
+    en = "Ranged Carapace",
   },
 
   -- **CURIO**

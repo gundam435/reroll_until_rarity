@@ -26,7 +26,7 @@ mod_data.options = {
       type          = "dropdown",
       default_value = "none",
       options = {
-        -- **NONEDEFAULT**
+        -- **NONE DEFAULT**
         {
           text = "rur_perk_name_none_default",
           value = "none"
@@ -53,7 +53,14 @@ mod_data.options = {
           text = "rur_perk_name_melee_elite_damage",
           value = "content/items/perks/melee_common/wield_increase_elite_enemy_damage"
         },
-
+        {
+          text = "rur_perk_name_melee_unyielding",
+          value = "content/items/perks/melee_common/wield_increase_monster_enemy_damage"
+        },
+        {
+          text = "rur_perk_name_melee_carapace",
+          value = "content/items/perks/melee_common/wield_increase_super_armor_damage"
+        },
 
         -- **RANGED**
         {
@@ -75,6 +82,14 @@ mod_data.options = {
         {
           text = "rur_perk_name_ranged_elite_damage",
           value = "content/items/perks/ranged_common/wield_increase_elite_enemy_damage"
+        },
+        {
+          text = "rur_perk_name_ranged_unyielding",
+          value = "content/items/perks/ranged_common/wield_increase_monster_enemy_damage"
+        },
+        {
+          text = "rur_perk_name_ranged_carapace",
+          value = "content/items/perks/ranged_common/wield_increase_super_armor_damage"
         },
 
 
